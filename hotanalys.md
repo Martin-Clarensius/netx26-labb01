@@ -1,0 +1,4 @@
+Jag utgår ifrån att ett företag använder e-post, microsoft 365, mobiltelefoner och ett HR-system som uppgiften lyder. 
+I en miljö med e-post/microsoft 365 kan ett hot vara att man försöker genom nätfiske lura till sig lösenord via falska mail eller att man skickar viruslänkar för att infiltrera system. Med mobiler kan personalen installera appar med skadlig kod. Genom HR-systemet kan obehöriga försöka ta sig in och stjäla personuppgifter. 
+Sårbarheter kan vara människan genom bristande kunskap, tekniken genom ouppdaterad mjukvara och inloggningen genom svaga lösenord och ingen MFA. 
+Skyddsåtgärder kan vara att tvinga alla anställda att använda tvåstegsverifiering, utbilda personalen så att de känner igen bluffmail och samtal och använda system som autmatiskt låser mobilerna vid uppdatering. 
